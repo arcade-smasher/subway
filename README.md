@@ -1,6 +1,6 @@
 # Subway
 
-**Subway is just a Tunnel reskin.** We might replace Tunnel with Subway someday.
+**Subway is just a more simplified Tunnel reskin, made to look less suspicious.** We might replace Tunnel with Subway someday.
 
 ---
 This is Subway, a web tool for avoiding internet censorship. Subway has various links for proxies, links to privacy-focused alternatives to YouTube, and a command line, for more technical users. Subway can be used for getting around your internet restrictions, or unblocking websites at school.
